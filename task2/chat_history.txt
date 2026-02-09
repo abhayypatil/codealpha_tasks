@@ -1,0 +1,14 @@
+Alpha|23:20|Good Evening Sir!
+How may I help you? (Type 'bye' to exit)
+user|23:20|hello
+Alpha|23:20|Hello! How can I assist you today?
+user|23:20|open facebook and google
+Alpha|23:20|Opening requested websites...
+user|23:20|play song on youtube trending song
+Alpha|23:20|Searching and executing.....
+user|23:21|time
+Alpha|23:21|The current time is 23:21.
+user|23:21|open ms word
+Alpha|23:21|Searching and executing.....
+user|23:21|thanku
+Alpha|23:21|You're welcome! Sir.
